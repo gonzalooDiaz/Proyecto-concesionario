@@ -1,0 +1,190 @@
+# depslib dependency file v1.0
+1716586998 source:c:\users\franm\onedrive\documentos\programacion i\tp final - concesionario\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LibreriaInicio.h"
+
+1716568303 c:\users\franm\onedrive\documentos\programacion i\tp final - concesionario\libreriaregistro.h
+
+1716569115 source:c:\users\franm\onedrive\documentos\programacion i\tp final - concesionario\libreriaregistro.c
+	<stdio.h>
+	<stdlib.h>
+	"LibreriaRegistro.h"
+
+1716584562 c:\users\franm\onedrive\documentos\programacion i\tp final - concesionario\libreriainicio.h
+
+1716587063 source:c:\users\franm\onedrive\documentos\programacion i\tp final - concesionario\libreriainicio.c
+	<stdio.h>
+	<stdlib.h>
+	"LibreriaInicio.h"
+	<string.h>
+
+1717985476 source:c:\users\usuario\desktop\tp final - concesionario\libreriainicio.c
+	<stdio.h>
+	<stdlib.h>
+	"LibreriaInicio.h"
+	<string.h>
+	<ctype.h>
+
+1717591818 c:\users\usuario\desktop\tp final - concesionario\libreriainicio.h
+
+1718026762 source:c:\users\usuario\desktop\tp final - concesionario\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LibreriaInicio.h"
+	"LibreriaMenuPrincipal.h"
+
+1718192002 source:c:\users\usuario\desktop\tp final - concesionario\tp final - concesionario\libreriainicio.c
+	<stdio.h>
+	<stdlib.h>
+	"LibreriaInicio.h"
+	<string.h>
+	<ctype.h>
+
+1717591818 c:\users\usuario\desktop\tp final - concesionario\tp final - concesionario\libreriainicio.h
+
+1718064203 source:c:\users\usuario\desktop\tp final - concesionario\tp final - concesionario\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LibreriaInicio.h"
+	"LibreriaMenuPrincipal.h"
+
+1718199061 source:c:\users\usuario\desktop\tp final - concesionario\tp final - concesionario\libreriamenuprincipal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LibreriaMenuPrincipal.h"
+
+1718194923 c:\users\usuario\desktop\tp final - concesionario\tp final - concesionario\libreriamenuprincipal.h
+
+1717985476 source:c:\users\leandro\onedrive\escritorio\tp final - concesionario\tp final - concesionario\tp final - concesionario\libreriainicio.c
+	<stdio.h>
+	<stdlib.h>
+	"LibreriaInicio.h"
+	<string.h>
+	<ctype.h>
+
+1717591818 c:\users\leandro\onedrive\escritorio\tp final - concesionario\tp final - concesionario\tp final - concesionario\libreriainicio.h
+
+1717986368 source:c:\users\leandro\onedrive\escritorio\tp final - concesionario\tp final - concesionario\tp final - concesionario\libreriamenuprincipal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LibreriaMenuPrincipal.h"
+
+1717985476 c:\users\leandro\onedrive\escritorio\tp final - concesionario\tp final - concesionario\tp final - concesionario\libreriamenuprincipal.h
+
+1717985997 source:c:\users\leandro\onedrive\escritorio\tp final - concesionario\tp final - concesionario\tp final - concesionario\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LibreriaInicio.h"
+	"LibreriaMenuPrincipal.h"
+
+1718027490 source:c:\users\usuario\desktop\tp final - concesionario\libreriamenuprincipal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LibreriaMenuPrincipal.h"
+
+1717985476 c:\users\usuario\desktop\tp final - concesionario\libreriamenuprincipal.h
+
+1718192004 source:c:\users\intel\desktop\tp final - concesionario\libreriainicio.c
+	<stdio.h>
+	<stdlib.h>
+	"LibreriaInicio.h"
+	<string.h>
+	<ctype.h>
+
+1717591818 c:\users\intel\desktop\tp final - concesionario\libreriainicio.h
+
+1718473418 source:c:\users\intel\desktop\tp final - concesionario\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LibreriaInicio.h"
+	"LibreriaMenuPrincipal.h"
+
+1718473210 c:\users\intel\desktop\tp final - concesionario\libreriamenuprincipal.h
+
+1718475081 source:c:\users\intel\desktop\tp final - concesionario\libreriamenuprincipal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LibreriaMenuPrincipal.h"
+
+1718642514 source:c:\users\leandro\onedrive\escritorio\tp final - concesionario\tp final - concesionario\libreriainicio.c
+	<stdio.h>
+	<stdlib.h>
+	"LibreriaInicio.h"
+	<string.h>
+	<ctype.h>
+
+1717591818 c:\users\leandro\onedrive\escritorio\tp final - concesionario\tp final - concesionario\libreriainicio.h
+
+1718654074 source:c:\users\leandro\onedrive\escritorio\tp final - concesionario\tp final - concesionario\libreriamenuprincipal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LibreriaMenuPrincipal.h"
+
+1718654074 c:\users\leandro\onedrive\escritorio\tp final - concesionario\tp final - concesionario\libreriamenuprincipal.h
+
+1718654074 source:c:\users\leandro\onedrive\escritorio\tp final - concesionario\tp final - concesionario\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LibreriaInicio.h"
+	"LibreriaMenuPrincipal.h"
+
+1718642514 source:c:\users\franm\onedrive\escritorio\tp final - concesionario\libreriainicio.c
+	<stdio.h>
+	<stdlib.h>
+	"LibreriaInicio.h"
+	<string.h>
+	<ctype.h>
+
+1717591818 c:\users\franm\onedrive\escritorio\tp final - concesionario\libreriainicio.h
+
+1718729405 source:c:\users\franm\onedrive\escritorio\tp final - concesionario\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LibreriaInicio.h"
+	"LibreriaMenuPrincipal.h"
+
+1718667215 c:\users\franm\onedrive\escritorio\tp final - concesionario\libreriamenuprincipal.h
+
+1718730708 source:c:\users\franm\onedrive\escritorio\tp final - concesionario\libreriamenuprincipal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LibreriaMenuPrincipal.h"
+
+1718753893 source:c:\users\leandro\onedrive\escritorio\tp final - concesionario\libreriainicio.c
+	<stdio.h>
+	<stdlib.h>
+	"LibreriaInicio.h"
+	<string.h>
+	<ctype.h>
+
+1718754021 c:\users\leandro\onedrive\escritorio\tp final - concesionario\libreriainicio.h
+
+1718735692 source:c:\users\leandro\onedrive\escritorio\tp final - concesionario\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LibreriaInicio.h"
+	"LibreriaMenuPrincipal.h"
+
+1718754021 c:\users\leandro\onedrive\escritorio\tp final - concesionario\libreriamenuprincipal.h
+
+1490112218 source:c:\users\leandro\onedrive\escritorio\tp final - concesionario\pila.c
+	"pila.h"
+
+1490112218 c:\users\leandro\onedrive\escritorio\tp final - concesionario\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1718753700 source:c:\users\leandro\onedrive\escritorio\tp final - concesionario\libreriamenuprincipal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LibreriaMenuPrincipal.h"
+	"pila.h"
+

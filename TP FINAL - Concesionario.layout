@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="LibreriaInicio.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6232" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="8" />
+			<Collapse line="40" />
+			<Collapse line="54" />
+			<Collapse line="189" />
+			<Collapse line="208" />
+			<Collapse line="227" />
+			<Collapse line="249" />
+		</Folding>
+	</File>
+	<File name="LibreriaMenuPrincipal.h" open="1" top="1" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="961" topLine="36" />
+		</Cursor>
+	</File>
+	<File name="LibreriaMenuPrincipal.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1473" topLine="44" />
+		</Cursor>
+		<Folding>
+			<Collapse line="53" />
+			<Collapse line="62" />
+			<Collapse line="83" />
+			<Collapse line="104" />
+			<Collapse line="126" />
+			<Collapse line="237" />
+			<Collapse line="339" />
+			<Collapse line="369" />
+			<Collapse line="399" />
+			<Collapse line="457" />
+			<Collapse line="489" />
+			<Collapse line="516" />
+			<Collapse line="549" />
+			<Collapse line="577" />
+			<Collapse line="589" />
+			<Collapse line="608" />
+			<Collapse line="628" />
+			<Collapse line="703" />
+			<Collapse line="776" />
+			<Collapse line="816" />
+			<Collapse line="844" />
+			<Collapse line="883" />
+			<Collapse line="910" />
+			<Collapse line="950" />
+			<Collapse line="959" />
+			<Collapse line="979" />
+			<Collapse line="1025" />
+			<Collapse line="1045" />
+			<Collapse line="1099" />
+			<Collapse line="1165" />
+			<Collapse line="1187" />
+			<Collapse line="1212" />
+			<Collapse line="1261" />
+			<Collapse line="1428" />
+			<Collapse line="1439" />
+			<Collapse line="1460" />
+			<Collapse line="1479" />
+			<Collapse line="1501" />
+			<Collapse line="1519" />
+			<Collapse line="1535" />
+		</Folding>
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="266" topLine="22" />
+		</Cursor>
+	</File>
+	<File name="LibreriaInicio.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="275" topLine="2" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
